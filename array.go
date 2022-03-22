@@ -131,6 +131,12 @@ func main() {
 	fmt.Println("cars:", cars)
 	fmt.Println("newCars:", newCars)
 
+	//yang sudah ada reponya di github
+	//git add*
+	//git status
+	//git commit -m "judul update sesi"
+	//git push origin master
+
 	//git init
 	//git add *
 	//git status
