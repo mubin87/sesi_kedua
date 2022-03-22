@@ -130,4 +130,17 @@ func main() {
 	cars[0] = "Suzuki"
 	fmt.Println("cars:", cars)
 	fmt.Println("newCars:", newCars)
+
+	//git init
+	//git add *
+	//git status
+	//git comit -m "judul sesi"
+	//git remote add origin "https://github.com/mubin87/sesi_ketiga.git"
+	//git pus origin master
+
+	//cd ..
+	//mkdir nama_project
+	//cd nama_project
+	//go mod init nama_project
+	//
 }
