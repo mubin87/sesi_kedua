@@ -140,13 +140,13 @@ func main() {
 	//git init
 	//git add *
 	//git status
-	//git comit -m "judul sesi"
+	//git commit -m "judul sesi"
 	//git remote add origin "https://github.com/mubin87/sesi_ketiga.git"
-	//git pus origin master
+	//git push origin master
 
 	//cd ..
 	//mkdir nama_project
 	//cd nama_project
 	//go mod init nama_project
-	//
+	//setting environment
 }
